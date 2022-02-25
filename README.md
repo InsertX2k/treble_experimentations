@@ -20,11 +20,11 @@ For example:
 ## More flexible build script
 
 (this has been tested much less)
-
+```
   bash ../treble_experimentations/build-dakkar.sh rr \
     arm-aonly-gapps-su \
     arm64-ab-go-nosu
-
+```
 The script should provide a help message if you pass something it
 doesn't understand
 
